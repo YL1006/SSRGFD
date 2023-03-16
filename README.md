@@ -4,4 +4,5 @@ To meet the needs of the research about image tampering detection and localizati
 
 ## DownLoad
 BaiDu Cloud Drive：https://pan.baidu.com/s/1vDFsZhl3UsCIsiLTk31nNw 
-Password：6xls 
+
+## Reference
